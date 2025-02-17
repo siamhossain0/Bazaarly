@@ -22,7 +22,7 @@ BazaarLy is a **modern eCommerce application** built with **Flutter** and **GetX
 - ![Popular Product](https://github.com/siamhossain0/Bazaarly/blob/main/popular%20Product.png?raw=true)
 - ![Categories Screen](categories.png)
 - ![Shop Screen](https://github.com/siamhossain0/Bazaarly/blob/main/shop%20screen.png?raw=true)
-- ![Wishlist Screen](https://github.com/siamhossain0/Bazaarly/blob/main/wishlist%20screen.png?raw=true)
+- ![Wishlist Screen](wishlist screenss.png)
 - ![Profile Screen](https://github.com/siamhossain0/Bazaarly/blob/main/profile%20screen.png?raw=true)
 - ![Order Screen](https://github.com/siamhossain0/Bazaarly/blob/main/order%20screen.png?raw=true)
 - ![Address Screen](https://github.com/siamhossain0/Bazaarly/blob/main/address%20screen.png?raw=true)
