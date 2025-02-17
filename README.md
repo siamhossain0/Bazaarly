@@ -16,10 +16,11 @@ BazaarLy is a **modern eCommerce application** built with **Flutter** and **GetX
 - **Dart** as the programming language  
 - **GetX** for state management & navigation  
 - **Firebase** for backend integration
+## Screens
 - ![Home Screen]([homescreen.png](https://github.com/siamhossain0/Bazaarly/blob/main/homescreen.png?raw=true))
-- ![Dark Mode](https://github.com/siamhossain0/Bazaarly/blob/main/darkmode.png?raw=true)
-- ![Popular Product](https://github.com/siamhossain0/Bazaarly/blob/main/popular%20Product.png?raw=true)
-- ![Categories Screen](https://github.com/siamhossain0/Bazaarly/blob/main/categories.png?raw=true)
+- ![Dark Mode]([Dark Mode](https://github.com/siamhossain0/Bazaarly/blob/main/darkmode.png?raw=true))
+- ![Popular Product]([Popular Product](https://github.com/siamhossain0/Bazaarly/blob/main/popular%20Product.png?raw=true))
+- ![Categories Screen](categories.png)
 - ![Shop Screen](https://github.com/siamhossain0/Bazaarly/blob/main/shop%20screen.png?raw=true)
 - ![Wishlist Screen](https://github.com/siamhossain0/Bazaarly/blob/main/wishlist%20screen.png?raw=true)
 - ![Profile Screen](https://github.com/siamhossain0/Bazaarly/blob/main/profile%20screen.png?raw=true)
@@ -28,6 +29,7 @@ BazaarLy is a **modern eCommerce application** built with **Flutter** and **GetX
 - ![Product details Screen](https://github.com/siamhossain0/Bazaarly/blob/main/product%20details.png?raw=true)
 - ![Brands Screen](https://github.com/siamhossain0/Bazaarly/blob/main/Brands%20Screen.png?raw=true)
 - ![Cart Screen](https://github.com/siamhossain0/Bazaarly/blob/main/cart.png?raw=true)
+- 
 -  
 
 
