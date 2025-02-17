@@ -1,16 +1,32 @@
-# bazaar_ly
+# 🛍️ BazaarLy - A Powerful eCommerce App
 
-A new Flutter project.
+BazaarLy is a **modern eCommerce application** built with **Flutter** and **GetX**. It provides a seamless shopping experience with a variety of product categories, intuitive UI, and smooth navigation.
 
-## Getting Started
+## 🚀 Features
+✅ **Modern UI/UX** with smooth animations  
+✅ **Product Categories** for easy browsing  
+✅ **Product Listings & Details** with discounts  
+✅ **Cart & Wishlist** to save products  
+✅ **Search Functionality** to find items quickly  
+✅ **User Authentication** (Login/Signup)  
+✅ **Dark Mode Support**  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Flutter** for frontend UI development  
+- **Dart** as the programming language  
+- **GetX** for state management & navigation  
+- **Firebase** for backend integration
+- ![Home Screen](screenshots/home.png)
+- ![Popular Product]()
+- ![Categories Screen]()
+- ![Shop Screen]()
+- ![Wishlist Screen]()
+- ![Profile Screen]()
+- ![Order Screen]()
+- ![Address Screen]()
+- ![Product details Screen]()
+- ![Brands Screen]()
+-  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
