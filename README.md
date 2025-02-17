@@ -18,7 +18,7 @@ BazaarLy is a **modern eCommerce application** built with **Flutter** and **GetX
 - **Firebase** for backend integration
 ## Screens
 - ![Home Screen]([homescreen.png](https://github.com/siamhossain0/Bazaarly/blob/main/homescreen.png?raw=true))
-- ![Dark Mode]([Dark Mode](https://github.com/siamhossain0/Bazaarly/blob/main/darkmode.png?raw=true))
+- ![Dark Mode]([darkmode.png](https://github.com/siamhossain0/Bazaarly/blob/main/darkmode.png?raw=true))
 - ![Popular Product]([Popular Product](https://github.com/siamhossain0/Bazaarly/blob/main/popular%20Product.png?raw=true))
 - ![Categories Screen](categories.png)
 - ![Shop Screen](https://github.com/siamhossain0/Bazaarly/blob/main/shop%20screen.png?raw=true)
